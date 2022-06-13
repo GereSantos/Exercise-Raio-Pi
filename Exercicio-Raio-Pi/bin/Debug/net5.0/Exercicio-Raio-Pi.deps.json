@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Exercicio-Raio-Pi/1.0.0": {
+        "runtime": {
+          "Exercicio-Raio-Pi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exercicio-Raio-Pi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

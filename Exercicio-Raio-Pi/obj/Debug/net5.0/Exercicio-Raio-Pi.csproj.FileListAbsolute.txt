@@ -1,0 +1,16 @@
+C:\Users\geremias.bezerra\source\repos\Exercicio-Raio-Pi\Exercicio-Raio-Pi\bin\Debug\net5.0\Exercicio-Raio-Pi.exe
+C:\Users\geremias.bezerra\source\repos\Exercicio-Raio-Pi\Exercicio-Raio-Pi\bin\Debug\net5.0\Exercicio-Raio-Pi.deps.json
+C:\Users\geremias.bezerra\source\repos\Exercicio-Raio-Pi\Exercicio-Raio-Pi\bin\Debug\net5.0\Exercicio-Raio-Pi.runtimeconfig.json
+C:\Users\geremias.bezerra\source\repos\Exercicio-Raio-Pi\Exercicio-Raio-Pi\bin\Debug\net5.0\Exercicio-Raio-Pi.runtimeconfig.dev.json
+C:\Users\geremias.bezerra\source\repos\Exercicio-Raio-Pi\Exercicio-Raio-Pi\bin\Debug\net5.0\Exercicio-Raio-Pi.dll
+C:\Users\geremias.bezerra\source\repos\Exercicio-Raio-Pi\Exercicio-Raio-Pi\bin\Debug\net5.0\ref\Exercicio-Raio-Pi.dll
+C:\Users\geremias.bezerra\source\repos\Exercicio-Raio-Pi\Exercicio-Raio-Pi\bin\Debug\net5.0\Exercicio-Raio-Pi.pdb
+C:\Users\geremias.bezerra\source\repos\Exercicio-Raio-Pi\Exercicio-Raio-Pi\obj\Debug\net5.0\Exercicio-Raio-Pi.csproj.AssemblyReference.cache
+C:\Users\geremias.bezerra\source\repos\Exercicio-Raio-Pi\Exercicio-Raio-Pi\obj\Debug\net5.0\Exercicio-Raio-Pi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\geremias.bezerra\source\repos\Exercicio-Raio-Pi\Exercicio-Raio-Pi\obj\Debug\net5.0\Exercicio-Raio-Pi.AssemblyInfoInputs.cache
+C:\Users\geremias.bezerra\source\repos\Exercicio-Raio-Pi\Exercicio-Raio-Pi\obj\Debug\net5.0\Exercicio-Raio-Pi.AssemblyInfo.cs
+C:\Users\geremias.bezerra\source\repos\Exercicio-Raio-Pi\Exercicio-Raio-Pi\obj\Debug\net5.0\Exercicio-Raio-Pi.csproj.CoreCompileInputs.cache
+C:\Users\geremias.bezerra\source\repos\Exercicio-Raio-Pi\Exercicio-Raio-Pi\obj\Debug\net5.0\Exercicio-Raio-Pi.dll
+C:\Users\geremias.bezerra\source\repos\Exercicio-Raio-Pi\Exercicio-Raio-Pi\obj\Debug\net5.0\ref\Exercicio-Raio-Pi.dll
+C:\Users\geremias.bezerra\source\repos\Exercicio-Raio-Pi\Exercicio-Raio-Pi\obj\Debug\net5.0\Exercicio-Raio-Pi.pdb
+C:\Users\geremias.bezerra\source\repos\Exercicio-Raio-Pi\Exercicio-Raio-Pi\obj\Debug\net5.0\Exercicio-Raio-Pi.genruntimeconfig.cache

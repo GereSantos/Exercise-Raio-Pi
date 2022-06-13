@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bRfh4oCXfs/WR6RiLP2r1JFJcUtgaYbZf+hHM2UgwCVeeiZS2NmwrPRXde7k+Sd1h1TdV0b0SfbLxpNnAoE4IA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\geremias.bezerra\\source\\repos\\Exercicio-Raio-Pi\\Exercicio-Raio-Pi\\Exercicio-Raio-Pi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\geremias.bezerra\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
